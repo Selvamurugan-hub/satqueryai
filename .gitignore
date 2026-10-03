@@ -1,0 +1,17 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+.next/
+.vite/
+*.db
+*.sqlite3
+.idea/
+.vscode/
+.DS_Store
